@@ -19,9 +19,9 @@
 - 🤔 I’m looking for help with Data structures and Competitive Programming
 - 💬 Ask me about anything related to college stuff
 - 👯 I’m looking to collaborate on Android projects.
-- 💻 Looking SDE roles.
+- 💻 Looking for SDE roles.
 - 😄 Pronouns: He/his
-- ⚡ Fun fact: I love to play  Keyboard🎹
+- ⚡ Fun fact: I love to play  Keyboard🎹🎶🎧
 
  
  --Languages and Frameworks:--
