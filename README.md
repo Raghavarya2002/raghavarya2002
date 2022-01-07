@@ -40,6 +40,9 @@ Here are some ideas to get you started:
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
    </p>
-   
- ![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=Raghavarya2002&show_icons=true&theme=radical)
- Do ⭐ my repository if you find my project interesting.
+  Do ⭐ my repository if you find my project interesting.
+  
+  
+![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=Raghavarya2002&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavarya2002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
