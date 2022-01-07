@@ -10,8 +10,6 @@
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif" width="400" height="300" />
 
 
-**Raghavarya2002/raghavarya2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Structures and Algorithms
