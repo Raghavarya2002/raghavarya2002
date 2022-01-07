@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with Data structures and Competitive Programming
 - 💬 Ask me about anything related to college stuff
-* 👯 I’m looking to collaborate on Android projects.
-* 💻 Looking SDE roles.
+- 👯 I’m looking to collaborate on Android projects.
+- 💻 Looking SDE roles.
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I love to play  Keyboard🎹
 
  
- **Languages and Frameworks:**
+ --Languages and Frameworks:--
 <p align="left">
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" alt="c" width="40" height="40"/></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="C++" width="40" height="40" /></code>&nbsp;
@@ -41,4 +41,5 @@ Here are some ideas to get you started:
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
    </p>
    
-   Do ⭐ my repository if you find my project interesting.
+ ![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=Raghavarya2002&show_icons=true&theme=radical)
+ Do ⭐ my repository if you find my project interesting.
