@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on Android projects.
 - 💻 Looking for SDE roles.
 - 😄 Pronouns: He/his
-- ⚡ Fun fact: I love to play  Keyboard🎹🎶🎧
+- ⚡ Fun fact: I love to play  Keyboard🎹 and listen music🎶🎧
 
  
  --Languages and Frameworks:--
