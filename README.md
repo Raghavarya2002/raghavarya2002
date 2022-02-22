@@ -20,6 +20,7 @@
 - 💬 Ask me about anything related to college stuff
 - 👯 I’m looking to collaborate on Android projects.
 - 💻 Looking for SDE roles.
+- 💻 Video Editor(Freelancer)
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I love to play  Keyboard🎹 and listen music🎶🎧
 
