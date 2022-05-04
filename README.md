@@ -8,7 +8,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-@raghavarya2002-1ca0f1?style=social&logo=instagram&logoColor=blueviolet&link=https://www.instagram.com/raghavarya2002/)](https://www.instagram.com/raghavarya2002/)
 ![](https://visitor-badge.glitch.me/badge?page_id=raghavarya.raghavarya)
 
-
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif" width="400" height="300" />
 
 
