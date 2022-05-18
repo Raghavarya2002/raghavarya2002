@@ -38,8 +38,6 @@
   Do ⭐ my repository if you find my project interesting.
   
   
-![Raghavarya2002's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raghavarya2002&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavarya2002&layout=compact)](https://github-readme-stats.vercel.app/)
+![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=Raghavarya2002&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavarya2002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
